@@ -1,1 +1,2 @@
+export(chisq.test.combine)
 export(t.test.combine)

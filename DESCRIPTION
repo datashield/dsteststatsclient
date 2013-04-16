@@ -8,3 +8,4 @@ Description: This package contains functions to carry out statistical
     various statistical tests.
 Collate:
     't.test.combine.r'
+    'chisq.test.combine.r'
