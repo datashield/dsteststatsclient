@@ -1,0 +1,10 @@
+Package: dsteststatsclient
+Maintainer: <datashield@obiba.org>
+Author: <datashield@obiba.org>
+Version: 1.0
+License: GPL-3
+Title: Datashield package for various statistical test (Client side)
+Description: This package contains functions to carry out statistical
+    various statistical tests.
+Collate:
+    't.test.combine.r'
