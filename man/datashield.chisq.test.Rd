@@ -1,8 +1,8 @@
-\name{chisq.test.combine}
-\alias{chisq.test.combine}
+\name{datashield.chisq.test}
+\alias{datashield.chisq.test}
 \title{Runs Pearson's Chi-squared Test on non-pooled data}
 \usage{
-  chisq.test.combine(opals, a, b)
+  datashield.chisq.test(opals, a, b)
 }
 \arguments{
   \item{a}{}

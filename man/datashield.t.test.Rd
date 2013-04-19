@@ -1,8 +1,8 @@
-\name{t.test.combine}
-\alias{t.test.combine}
+\name{datashield.t.test}
+\alias{datashield.t.test}
 \title{Runs a student's t-test on non-pooled data}
 \usage{
-  t.test.combine(opals, x, y = NULL, alternative = 1,
+  datashield.t.test(opals, x, y = NULL, alternative = 1,
     mu = 0, paired = FALSE, var.equal = FALSE,
     conf.level = 0.95)
 }

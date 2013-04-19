@@ -23,7 +23,7 @@
 #'}
 #' @export
 #'
-chisq.test.combine <- function (opals, a, b){
+datashield.chisq.test <- function (opals, a, b){
   # use the same approach as in the function table.2d.combine to create a 2d table of counts
   output.all <- datashield.table.2d(opals, a, b)
   

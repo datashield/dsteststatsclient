@@ -35,7 +35,7 @@
 #'}
 #' @export
 #'
-t.test.combine <- function (opals, x, y = NULL, alternative = 1, mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95) {
+datashield.t.test <- function (opals, x, y = NULL, alternative = 1, mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95) {
   
   if(alternative == 1){ alternative <- "two.sided" }
   if(alternative == 2){ alternative <- "less" }

@@ -1,2 +1,2 @@
-export(chisq.test.combine)
-export(t.test.combine)
+export(datashield.chisq.test)
+export(datashield.t.test)
